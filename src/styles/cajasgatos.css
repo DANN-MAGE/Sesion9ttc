@@ -1,0 +1,53 @@
+.gato1 { 
+    background-color: peru;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    img {
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+}
+.gato2 { 
+    background-color: peru;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    img {
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+}
+.gato3 { 
+    background-color: peru;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    img {
+        width: 300px;
+        height: 300px;
+        margin-left: 20px;
+    }
+
+}
+
+.titulogatos {
+    background-color: #6d4b00;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}

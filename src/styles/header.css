@@ -1,0 +1,40 @@
+.tituloylogo {
+    background-color: peru;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 0px;
+
+}
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+#barranavegacion {
+    ul{
+        background-color: peru;
+        list-style-type: none;
+        display: flex;
+        overflow: hidden;
+        list-style: none;
+        margin:0px;
+        padding:0px;
+        margin-bottom: 0px;
+    }
+    li {
+        float: left;
+        margin-right: 10px;
+    }
+    a {
+        display: block;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    a:hover {
+        background-color: #6d4b00;
+    }
+}
